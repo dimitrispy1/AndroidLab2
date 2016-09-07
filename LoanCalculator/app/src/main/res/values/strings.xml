@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="header">Loan Calculator</string>
+    <string name="loanAmount">Loan Amount</string>
+    <string name="loanTerm">Term of loan (years)</string>
+    <string name="loanRate">Yearly interest rate</string>
+    <string name="clear">Clear</string>
+    <string name="calculate">Calculate</string>
+    <string name="results">Results</string>
+    <string name="monPayment">Monthly Payment</string>
+    <string name="totPayment">Total Payment</string>
+    <string name="totInterest">Total Interest</string>
+</resources>
